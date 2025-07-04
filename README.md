@@ -20,4 +20,5 @@ This is a simple object-oriented shopping cart system in Java. It models custome
   ## USAGE  : Expired Product .
   ![image alt](https://github.com/Htrxxxxx/Fawry-E-Commerce-Task/blob/main/usage3.png?raw=true)
 
-  
+  ## USAGE  : Empty Cart .
+  ![image alt](https://github.com/Htrxxxxx/Fawry-E-Commerce-Task/blob/main/usage4.png?raw=true)
