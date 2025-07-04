@@ -11,6 +11,13 @@ This is a simple object-oriented shopping cart system in Java. It models custome
 -  Generate a clear checkout receipt
 -  Uses custom exceptions for clean error handling
 
-  ## USAGE 
+  ## USAGE  : No Errors . 
   ![image alt](https://github.com/Htrxxxxx/Fawry-E-Commerce-Task/blob/main/usage.png?raw=true)
+  
+  ## USAGE  : Not Enough Stock .
+  ![image alt](https://github.com/Htrxxxxx/Fawry-E-Commerce-Task/blob/main/usage2.png?raw=true)
+
+  ## USAGE  : Expired Product .
+  ![image alt](https://github.com/Htrxxxxx/Fawry-E-Commerce-Task/blob/main/usage3.png?raw=true)
+
   
